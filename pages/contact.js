@@ -196,7 +196,8 @@ const Contact = () => {
           <div className="flat-map">
             <iframe
               className="map-content wow fadeInUp   animated"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4457.30210514409!2d144.9550716623184!3d-37.818421643591336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121%20King%20St%2C%20Melbourne%20VIC%203000%2C%20%C3%9Ac!5e0!3m2!1svi!2s!4v1631871760998!5m2!1svi!2s"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.1876843660552!2d3.497553074539433!3d6.623593921993024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bedd1aa70bc63%3A0xc252a5b4bc90abea!2sSharon%20Springs%20Schools!5e0!3m2!1sen!2sng!4v1699791571936!5m2!1sen!2sng"
+              title="sharon springs map"
               width={1720}
               height={655}
               style={{

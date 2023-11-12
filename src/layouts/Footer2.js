@@ -66,9 +66,12 @@ const Footer2 = () => {
                     <ul>
                       <li className="fx">
                         <span>
-                          <i className="far fa-map-marker-alt" /> 55 Main
-                          Street, New York
+                          <i className="far fa-map-marker-alt" /> 27 Mobolaji
+                          Benson Street,
                         </span>
+                      </li>
+                      <li className="fx">
+                        <span>Igbo-Oluwo, Ikorodu, 104101, Lagos.</span>
                       </li>
                       <li className="fx">
                         <a href="mailto:hotline@gmail.com">
